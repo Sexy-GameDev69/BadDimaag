@@ -9,13 +9,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4640e42c5fa689144a6ba5ca858763b5, type: 3}
+  m_Script: {fileID: 0}
   m_Name: Physics Simulation Settings
   m_EditorClassIdentifier: 
-  PositionOffsetSettings:
-    EnableAutoOffset: 1
-    PositionOffsetDown: 50
-  SimulatePhysics: 1
-  GlobalTime: 20
-  ObjectTime: 6
-  AccelerationPhysics: 4
